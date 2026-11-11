@@ -1,0 +1,13 @@
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    front-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    text-align: center;
+    background-color: linear-gradient(to bottom,rgb(84,6,241),
+    rgb(164,36,215));
+    min-height: 100vh;
+} 
